@@ -13,6 +13,6 @@
 
 ## The true reason is unknown
 
-![Image]([https://tse3.mm.bing.net/th?id=OIP._xW4USwj_TC_UlL95t6oiwHaMD&pid=Api&P=0](https://github.com/jberdeski/cse15l-lab-reports/blob/main/oven.png))
+![Image](https://github.com/jberdeski/cse15l-lab-reports/blob/main/oven.png)
 
 [Origins](https://knowyourmeme.com/memes/why-do-they-call-it-oven)

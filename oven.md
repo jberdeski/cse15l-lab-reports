@@ -8,7 +8,7 @@
 ```
 1) heat?
 2) food
-*3 used for heating things in its enclosure
+* 3 used for heating things in its enclosure
 ```
 
 ## The true reason is unknown
